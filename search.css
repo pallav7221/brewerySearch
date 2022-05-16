@@ -1,0 +1,39 @@
+ nav {
+     background-color: black;
+ }
+
+ nav>a {
+     font-size: 20px;
+     margin: 40px;
+     color: white;
+     text-decoration: none;
+ }
+
+ a:hover {
+     cursor: pointer;
+ }
+
+ #search {
+     margin: 40px;
+     padding: 10px;
+ }
+
+ #search>input {
+     font-size: 20px;
+     padding: 3px;
+     border-radius: 5px;
+ }
+
+ table {
+     border: 1px solid black;
+
+ }
+
+ thead {
+     background-color: aquamarine;
+
+ }
+
+ tbody {
+     background-color: antiquewhite;
+ }
